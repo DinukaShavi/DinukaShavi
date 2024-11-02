@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinukashavi&label=Profile%20views&color=0e75b6&style=flat" alt="dinukashavi" /> </p>
 
-- 🌱 I’m currently learning **Angular , Kotlin**
+- 🌱 I’m currently learning 🌱 I’m currently learning **Angular** for dynamic frontend development, **Flutter** for cross-platform apps, **Cloud Deployment** (AWS, Azure), and **Spring Boot with JWT Security** for secure, stateless microservices.
 
-- 💬 Ask me about **React , Node , Spring**
+- 💬 Ask me about 💬 Ask me about **React** for interactive UI, **Node.js** for backend development, and **Spring Boot** for building powerful and secure APIs.
 
-- 📫 How to reach me **dinukashavinda20@gmail.com**
+- 📫 How to reach me: [dinukashavinda20@gmail.com](mailto:dinukashavinda20@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
